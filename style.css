@@ -1,0 +1,30 @@
+/* Complete the CSS styling according to the provided design */
+
+body {
+    background: #000;
+    
+}
+
+h1 {
+    text-align: center;
+    color: goldenrod;
+  margin: auto;
+  width: 100%;
+  font-size: 100px;
+}
+
+p  {
+    text-align: center;
+    color: goldenrod;
+      width: 100%;
+  font-size: 30px;
+}
+
+#message-el {
+    text-align: center;
+    color: rgb(187, 32, 218)8, 0);
+  margin: auto;
+  width: 100%;
+  font-size: 50px;
+    
+}
