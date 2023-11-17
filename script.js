@@ -1,4 +1,4 @@
-// omment to check version control
+
 let cards = []
 let sum = 0
 let hasBlackJack = false
